@@ -1,7 +1,8 @@
 import java.util.*;
 
-public class NumberReverse {
+public class Lab_0_3_NumberReverse {
     public static void main(String[] args) {
+        
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = sc.nextInt();

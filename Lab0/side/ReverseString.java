@@ -1,4 +1,4 @@
-package Lab1.side;
+//package Lab1.side;
 
 // Reverse a string without loop
 
