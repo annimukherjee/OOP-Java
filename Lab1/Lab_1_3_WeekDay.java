@@ -33,5 +33,7 @@ public class Lab_1_3_WeekDay {
                 break;
         }
 
+        s.close();
+
     }
 }

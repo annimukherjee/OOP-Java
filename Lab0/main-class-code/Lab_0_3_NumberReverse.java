@@ -2,20 +2,21 @@ import java.util.*;
 
 public class Lab_0_3_NumberReverse {
     public static void main(String[] args) {
-        
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = sc.nextInt();
         reverse(num);
         System.out.print("\n");
         sc.close();
+
         // int num = 10;
         // int dig1 = num % 10;
-        // // System.out.println(dig1);
+        // System.out.println(dig1);
         // int dig2 = (num % 100) / 10;
-        // // System.out.println(dig2);
+        // System.out.println(dig2);
         // int dig3 = (num % 1000) / 100;
-        // // System.out.println(dig3);
+        // System.out.println(dig3);
         // int dig4 = (num % 10000) / 1000;
         // System.out.println(dig4);
 

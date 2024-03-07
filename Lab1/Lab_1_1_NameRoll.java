@@ -1,5 +1,6 @@
 package Lab1;
 // Write  a  program  to  print  your  name,  roll  no,  section  and 
+
 // branch in separate lines.
 
 import java.util.Scanner;
@@ -19,6 +20,8 @@ public class Lab_1_1_NameRoll {
         System.out.println("Roll: " + roll);
         System.out.println("Section: " + section);
         System.out.println("Branch: " + branch);
+
+        s.close();
     }
 
 }

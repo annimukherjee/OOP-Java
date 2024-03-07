@@ -7,10 +7,10 @@ public class Lab_0_4_UnitConversion {
 
         if (mode == 0) {
             double m = val * 1000;
-            System.out.println(val + " deg km is " + m + " meteres");
+            System.out.println(val + " deg km is " + m + " meters");
         } else if (mode == 1) {
             double km = val / 1000.0;
-            System.out.println(val + " deg s is " + km + " Degrees Celcius");
+            System.out.println(val + " deg s is " + km + " Degrees Celsius");
         }
     }
 }

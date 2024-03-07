@@ -48,7 +48,6 @@ class Two_D {
     }
 
     int area() {
-
         return length * breadth;
     }
 

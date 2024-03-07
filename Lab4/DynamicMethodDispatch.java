@@ -34,8 +34,17 @@ public class DynamicMethodDispatch {
 
     public static void main(String[] args) {
 
-        Apple b = new Banana();
-        Apple c = new Cherry();
+        Apple a;
+
+        
+
+        Banana b = new Banana();
+        a = b;
+
+        
+        Cherry c = new Cherry();
+
+        a = c;
         
         b.show();
         c.show();

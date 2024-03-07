@@ -1,5 +1,6 @@
 package Lab1;
 // Write  a  program  to  print  the  corresponding  grade  for  the 
+
 // given  mark using if..else statement in Java
 
 import java.util.Scanner;
@@ -27,6 +28,8 @@ public class Lab_1_2_GradeDisplay {
         } else if (marks >= 40 && marks < 50) {
             System.out.println("F grade");
         }
+
+        s.close();
 
     }
 }
