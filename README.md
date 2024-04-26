@@ -14,3 +14,5 @@ https://github.com/annimukherjee/OOP-Java/blob/main/Java%20Lab%20Lesson%20Plan.p
 #### Checkout the `swingggg` folder for our final project and the project report
 
 https://github.com/annimukherjee/OOP-Java/tree/main/swinggg
+
+[swinggg/ACTIVITY-VI-REPORT-OOPJ-Theory_Solutions.pdf](https://github.com/annimukherjee/OOP-Java/blob/main/swinggg/ACTIVITY-VI-REPORT-OOPJ-Theory_Solutions.pdf)
